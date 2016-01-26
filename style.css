@@ -1,0 +1,31 @@
+body {background: #3d819f; margin: 0; padding: 0;}
+a {color: #bdd2f1; padding: 15px;}
+#container  {width: auto; heigth: auto; margin: 0; padding: 0; background: #dddddd;}
+
+#header     {width: 1360px; height: auto;  margin: 0; padding: 40px; border: 50px;
+              font-size: 30px; background: #2e6780; color: #8dc9d1;}
+
+#navigation {width: auto;  height: auto;  margin: 0; padding: 10px; border: 0;
+              float: top; position: absolute; top: 10px; right: 20px;
+              font-size: 16px; background: #5f6678; color: #adacc6}
+
+#navigationText {max-width: auto; float: right; padding-left: 20px;
+                  padding-right: 20px; background: #5f6678; color: #bdd2f1}
+
+#content    {width: 1360px; height: 800px; margin: 0; padding: 40px; border: 0;
+              float: left; background: #0c3e54; color: #8dc9d1; line-height: 30px}
+
+#contentBlock {width: 500px; height: 500px; margin: 0; padding: 10px; border: 0;
+               margin-right: 50px;}
+
+#contentBlockLeft{width: 500px; height: 500px; margin: 0; padding: 10px; border: 0;
+              float: left; background: #2b89b1; margin-right: 50px;}
+
+#contentBlockRight{width: 500px; height: 500px; margin: 0; padding: 10px; border: 0;
+              float: right; background: #2b89b1; margin-left: 50px;}
+
+#footer     {width: 1360px; height: 70px;  margin: 0; padding: 40px; border: 0;
+              float: left; background: #104c66;}
+
+#footerContent {width: auto; height: 20px; margin: 0; padding: 10px; border: 0;
+                  float: left; background: #2e6780; margin-left: 25px; margin-right: 25px}
